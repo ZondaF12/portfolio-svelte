@@ -1,7 +1,9 @@
 <script lang="ts">
 </script>
 
-<div class="flex h-screen items-center justify-center bg-zinc-900 font-inter text-zinc-100">
+<div
+	class="flex h-screen items-center justify-center overflow-hidden bg-zinc-900 font-inter text-zinc-100"
+>
 	<div class="flex max-w-xl flex-col items-start justify-center px-6">
 		<div class="h-24 w-24 overflow-hidden rounded-full ring-2 ring-zinc-700">
 			<img
