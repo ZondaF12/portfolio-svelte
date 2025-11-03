@@ -6,7 +6,8 @@
 </script>
 
 <svelte:head>
-	<link rel="icon" href={favicon} />
+	<link rel="icon" href="/Ruaridh.JPG" />
+	<title>Ruaridh Bell</title>
 </svelte:head>
 
 {@render children()}
